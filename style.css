@@ -1,4 +1,8 @@
 .h1{
-    color: aqua;
+    color: rgb(26, 255, 0);
     font-family: 'Times New Roman', Times, serif;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    flex-direction: row;
 }
